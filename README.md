@@ -1,6 +1,9 @@
 # Pastel97
-A series of pastel Redmond97-based themes for Linux. 
+A series of pastel Redmond97-based themes for XFCE4. 
 
 ## Pastel97-Dracula
-A theme based off of the Dracula colour pallette.
+A theme based off of the Dracula colour palette.
 ![Dracula](/images/dracula1.png)
+
+## Pastel97-Lilac
+A lilac theme for Pastel97. 
