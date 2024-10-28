@@ -1,5 +1,5 @@
 # Pastel97
-A series of pastel Redmond97-based themes for XFCE4. 
+A series of Redmond97-based themes for XFCE4. 
 
 ## Pastel97-Dracula
 A theme based off of the Dracula colour palette.
