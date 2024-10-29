@@ -6,7 +6,11 @@ Intended to eventually be used as the aesthetic basis of "[9xOS](https://github.
 ### Installation:
 Copy your theme of choice to the ".themes" folder in your local user directory (if the directory does not exist, make it and then move the theme into it!)
 ### Recommended:
-[Win98SE Icon Pack](https://github.com/nestoris/Win98SE)
+Icons:
+
+[Win98SE Icon Pack](https://github.com/nestoris/Win98SE) - Windows 98 style icons
+
+[NineIcons](https://github.com/grassmunk/Platinum9) - macOS 9 style icons (pairs well with Pastel97-Dracula)
 
 ## Pastel97-Dracula
 A theme based off of the Dracula colour palette.
