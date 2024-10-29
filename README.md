@@ -17,6 +17,7 @@ Copy your theme of choice to the ".themes" folder in your local user directory (
 
 - Less Perfect DOS VGA / More Perfect DOS VGA (terminal)
 
+# Themes
 ## Pastel97-Dracula
 A theme based off of the Dracula colour palette. Use "Dracula-Alt" if you want a purple titlebar!
 ![Dracula](/images/dracula1.png)
