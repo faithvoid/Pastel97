@@ -13,7 +13,7 @@ Icons:
 [NineIcons](https://github.com/grassmunk/Platinum9) - macOS 9 style icons (pairs well with Pastel97-Dracula)
 
 ## Pastel97-Dracula
-A theme based off of the Dracula colour palette.
+A theme based off of the Dracula colour palette. Use "Dracula-Alt" if you want a purple titlebar!
 ![Dracula](/images/dracula1.png)
 
 ## Pastel97-Kokoro
