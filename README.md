@@ -44,7 +44,11 @@ An Embedded-based theme for Pastel97.
 
 ## Pastel97-CDE
 A Common Desktop Environment-based theme for Pastel97. 
-![Lavender](/images/cde1.png)
+![CDE](/images/cde1.png)
+
+## Pastel97-Solaris
+An alternate Common Desktop Environment-based theme for Pastel97. 
+![Solaris](/images/solaris1.png)
 
 ## Pastel97-RawrMeansILY
 Y2K scene-inspired theme. Don't take this one too seriously.
