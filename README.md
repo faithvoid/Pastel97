@@ -18,4 +18,8 @@ A theme based off of the Dracula colour palette.
 
 ## Pastel97-Kokoro
 A dark lilac theme for Pastel97. 
-![Dracula](/images/kokoro1.png)
+![Kokoro](/images/kokoro1.png)
+
+## Pastel97-Lovely-Lilac
+A light lilac theme for Pastel97. 
+![Lovely Lilac](/images/lovelylilac2.png)
