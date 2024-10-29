@@ -23,3 +23,7 @@ A dark lilac theme for Pastel97.
 ## Pastel97-Lavender
 A light lavender theme for Pastel97. 
 ![Lavender](/images/lavender.png)
+
+## Pastel97-CDE
+A Common Desktop Environment-based theme for Pastel97. 
+![Lavender](/images/cde1.png)
