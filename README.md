@@ -8,14 +8,14 @@ Copy your theme of choice to the ".themes" folder in your local user directory (
 ### Recommended:
 #### Icons:
 
-[Win98SE Icon Pack](https://github.com/nestoris/Win98SE) - Windows 98 style icons
+- [Win98SE Icon Pack](https://github.com/nestoris/Win98SE) - Windows 98 style icons
 
-[NineIcons](https://github.com/grassmunk/Platinum9) - macOS 9 style icons (pairs well with Pastel97-Dracula)
+- [NineIcons](https://github.com/grassmunk/Platinum9) - macOS 9 style icons (pairs well with Pastel97-Dracula)
 
 #### Fonts:
-Tahoma / Sans Regular (system-wide)
+- Tahoma / Sans Regular (system-wide)
 
-Less Perfect DOS VGA / More Perfect DOS VGA (terminal)
+- Less Perfect DOS VGA / More Perfect DOS VGA (terminal)
 
 ## Pastel97-Dracula
 A theme based off of the Dracula colour palette. Use "Dracula-Alt" if you want a purple titlebar!
