@@ -8,9 +8,9 @@ Copy your theme of choice to the ".themes" folder in your local user directory (
 ### Recommended:
 #### Icons:
 
-- [Win98SE Icon Pack](https://github.com/nestoris/Win98SE) - Windows 98 style icons
+- [98SE](https://github.com/nestoris/Win98SE) - Windows 98 style icons
 
-- [NineIcons](https://github.com/grassmunk/Platinum9) - macOS 9 style icons (pairs well with Pastel97-Dracula)
+- [NineIcons](https://github.com/grassmunk/Platinum9) - macOS 9 style icons (pairs well with Pastel97-Dracula & Pastel97-Lavender)
 
 #### Fonts:
 - Tahoma / Sans Regular (system-wide)
