@@ -26,7 +26,11 @@ A light lavender theme for Pastel97.
 
 ## Pastel97-Zaytun
 An Olive-based theme for Pastel97. Named after the Arabic word for "olive tree". 
-![Lavender](/images/zaytun1.png)
+![Zaytun](/images/zaytun1.png)
+
+## Pastel97-Alexandria
+A Zune-inspired theme for Pastel97. Named after the internal codename for Zune Marketplace. 
+![Alexandria](/images/alexandria1.png)
 
 ## Pastel97-CDE
 A Common Desktop Environment-based theme for Pastel97. 
