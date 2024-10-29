@@ -27,11 +27,11 @@ Alternate Dracula theme, has a purple titlebar!
 ![Dracula](/images/dracula2.png)
 
 ## Pastel97-Kokoro
-A dark lilac theme for Pastel97. 
+A dark lilac theme. 
 ![Kokoro](/images/kokoro1.png)
 
 ## Pastel97-Lavender
-A light lavender theme for Pastel97. 
+A light lavender theme. 
 ![Lavender](/images/lavender.png)
 
 ## Pastel97-Zaytun
