@@ -32,10 +32,14 @@ An Olive-based theme for Pastel97. Named after the Arabic word for "olive tree".
 A Zune-inspired theme for Pastel97. Named after the internal codename for Zune Marketplace. 
 ![Alexandria](/images/alexandria1.png)
 
+## Pastel97-PerfectBlue
+An Embedded-based theme for Pastel97.
+![Perfect Blue](/images/perfectblue1.png)
+
 ## Pastel97-CDE
 A Common Desktop Environment-based theme for Pastel97. 
 ![Lavender](/images/cde1.png)
 
-## Pastel97-Rawr
+## Pastel97-RawrMeansILY
 Y2K scene-inspired theme. Don't take this one too seriously.
 ![Rawr](/images/RawrMeansILY.png)
