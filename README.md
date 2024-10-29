@@ -22,4 +22,4 @@ A dark lilac theme for Pastel97.
 
 ## Pastel97-Lavender
 A light lavender theme for Pastel97. 
-![Lavender](/images/lavender1.png)
+![Lavender](/images/lavender.png)
