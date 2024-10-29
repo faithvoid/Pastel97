@@ -31,23 +31,23 @@ A light lavender theme for Pastel97.
 ![Lavender](/images/lavender.png)
 
 ## Pastel97-Zaytun
-An Olive-based theme for Pastel97. Named after the Arabic word for "olive tree". 
+An Olive-based theme. Named after the Arabic word for "olive tree". 
 ![Zaytun](/images/zaytun1.png)
 
 ## Pastel97-Alexandria
-A Zune-inspired theme for Pastel97. Named after the internal codename for Zune Marketplace. 
+A Zune-inspired theme. Named after the internal codename for Zune Marketplace. 
 ![Alexandria](/images/alexandria1.png)
 
 ## Pastel97-PerfectBlue
-An Embedded-based theme for Pastel97.
+An Embedded-based theme.
 ![Perfect Blue](/images/perfectblue1.png)
 
 ## Pastel97-CDE
-A Common Desktop Environment-based theme for Pastel97. 
+A Common Desktop Environment-based theme. 
 ![CDE](/images/cde1.png)
 
 ## Pastel97-Solaris
-An alternate Common Desktop Environment-based theme for Pastel97. 
+An alternate Common Desktop Environment-based theme. 
 ![Solaris](/images/solaris1.png)
 
 ## Pastel97-RawrMeansILY
