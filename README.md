@@ -35,3 +35,7 @@ A Zune-inspired theme for Pastel97. Named after the internal codename for Zune M
 ## Pastel97-CDE
 A Common Desktop Environment-based theme for Pastel97. 
 ![Lavender](/images/cde1.png)
+
+## Pastel97-Rawr
+Y2K scene-inspired theme. Don't take this one too seriously.
+![Rawr](/images/RawrMeansILY.png)
