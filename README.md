@@ -25,7 +25,7 @@ A light lavender theme for Pastel97.
 ![Lavender](/images/lavender.png)
 
 ## Pastel97-Zaytun
-An Olive-based theme for Pastel97. 
+An Olive-based theme for Pastel97. Named after the Arabic word for "olive tree". 
 ![Lavender](/images/zaytun1.png)
 
 ## Pastel97-CDE
