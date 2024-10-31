@@ -46,6 +46,10 @@ A Zune-inspired theme. Named after the internal codename for Zune Marketplace.
 An Embedded-based theme.
 ![Perfect Blue](/images/perfectblue1.png)
 
+## Pastel97-Evanescence
+A theme centered around the colourscheme of Evanescence's album "Fallen".
+![Evanescence](/images/evanescence.png)
+
 ## Pastel97-CDE
 A Common Desktop Environment-based theme. 
 ![CDE](/images/cde1.png)
