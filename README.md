@@ -1,4 +1,4 @@
-# Pastel97
+# Pastel2K (formerly Pastel97)
 A series of Redmond97-based themes for XFCE4. 
 
 Intended to eventually be used as the aesthetic basis of "[9xOS](https://github.com/faithvoid/9xos)", a retro PC gaming OS for the Raspberry Pi, but works for all *nix distros as long as they can run XFCE4!
@@ -18,46 +18,46 @@ Copy your theme of choice to the ".themes" folder in your local user directory (
 - Less Perfect DOS VGA / More Perfect DOS VGA (terminal)
 
 # Themes
-## Pastel97-Dracula
+## Pastel2K-Dracula
 A theme based off of the Dracula colour palette. Use "Dracula-Alt" if you want a purple titlebar!
 ![Dracula](/images/dracula1.png)
 
-## Pastel97-Dracula-Alt
+## Pastel2K-Dracula-Alt
 Alternate Dracula theme, has a purple titlebar!
 ![Dracula](/images/dracula2.png)
 
-## Pastel97-Kokoro
+## Pastel2K-Kokoro
 A dark lilac theme. 
 ![Kokoro](/images/kokoro1.png)
 
-## Pastel97-Lavender
+## Pastel2K-Lavender
 A light lavender theme. 
 ![Lavender](/images/lavender.png)
 
-## Pastel97-Zaytun
+## Pastel2K-Zaytun
 An Olive-based theme. Named after the Arabic word for "olive tree". 
 ![Zaytun](/images/zaytun1.png)
 
-## Pastel97-Alexandria
+## Pastel2K-Alexandria
 A Zune-inspired theme. Named after the internal codename for Zune Marketplace. 
 ![Alexandria](/images/alexandria1.png)
 
-## Pastel97-PerfectBlue
+## Pastel2K-PerfectBlue
 An Embedded-based theme.
 ![Perfect Blue](/images/perfectblue1.png)
 
-## Pastel97-Evanescence
+## Pastel2K-Evanescence
 A theme centered around the colourscheme of Evanescence's album "Fallen".
 ![Evanescence](/images/evanescence.png)
 
-## Pastel97-CDE
+## Pastel2K-CDE
 A Common Desktop Environment-based theme. 
 ![CDE](/images/cde1.png)
 
-## Pastel97-Solaris
+## Pastel2K-Solaris
 An alternate Common Desktop Environment-based theme. 
 ![Solaris](/images/solaris1.png)
 
-## Pastel97-RawrMeansILY
+## Pastel2K-RawrMeansILY
 Y2K scene-inspired theme. Don't take this one too seriously.
 ![Rawr](/images/RawrMeansILY.png)
